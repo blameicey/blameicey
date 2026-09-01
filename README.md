@@ -7,7 +7,7 @@
 
 ## About
 
-Solo FiveM developer from the Philippines focused on creating performant, production-ready resources with clean architecture and long-term maintainability.
+Solo FiveM developer focused on creating performant, production-ready resources with clean architecture and long-term maintainability.
 
 ## Projects
 
